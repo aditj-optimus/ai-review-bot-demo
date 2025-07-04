@@ -1,0 +1,5 @@
+project_name: ai-review-demo
+review_rules:
+  - Ensure all functions have docstrings
+  - Avoid unnecessary arithmetic
+  - Use snake_case for variables
